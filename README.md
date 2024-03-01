@@ -1,8 +1,26 @@
-# Hate-Speech-Identification-Model
-A classifier leveraging the nltk and sklearn library  to categorize given text into offensive, hate or neither.
-Machine Learning for the greater good.Using the knowledge of NLP and machine learning models I chose to invest my time in this project as I believe learning the skills to help public cause is the need of the hour.
-The data used to train the model is based on tweets which I aquired through Kaggle.
-The link to the data is given here:[Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
-Models used:KNN,Naive Bayes,SVM,Logistic Regression
+# Hate Speech Identification Model
 
-Currently a work in progress...
+This project aims to develop a classifier using the NLTK and scikit-learn libraries to categorize given text into offensive, hate speech, or neither. It leverages machine learning techniques to contribute to addressing the issue of hate speech online.
+
+## Motivation
+
+Machine learning for the greater good. With the knowledge of natural language processing (NLP) and machine learning models, I chose to invest my time in this project as I believe learning the skills to combat hate speech and offensive language is crucial in today's digital age.
+
+## Data Source
+
+The dataset used to train the model consists of tweets, acquired from [Kaggle](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset). It provides a diverse collection of text samples to train and test the hate speech identification model.
+
+## Models Used
+
+The following machine learning models were explored and implemented:
+
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Support Vector Machine (SVM)
+- Logistic Regression
+
+## Work in Progress
+
+This project is currently ongoing, with continuous improvements and refinements being made to the classifier models. Updates and further insights will be provided as the project progresses.
+
+Feel free to contribute and provide feedback to enhance the effectiveness of the hate speech identification model. Together, we can strive towards a safer and more inclusive online environment.
