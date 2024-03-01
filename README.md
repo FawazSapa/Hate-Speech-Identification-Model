@@ -8,7 +8,7 @@ Machine learning for the greater good. With the knowledge of natural language pr
 
 ## Data Source
 
-The dataset used to train the model consists of tweets, acquired from [Kaggle](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset). It provides a diverse collection of text samples to train and test the hate speech identification model.
+The dataset used to train the model consists of tweets, acquired from [Kaggle](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset). It provides a diverse collection of text samples based on tweets to train and test the hate speech identification model.
 
 ## Models Used
 
