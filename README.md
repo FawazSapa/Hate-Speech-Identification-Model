@@ -19,8 +19,18 @@ The following machine learning models were explored and implemented:
 - Support Vector Machine (SVM)
 - Logistic Regression
 
-## Work in Progress
+## Conclusion
 
-This project is currently ongoing, with continuous improvements and refinements being made to the classifier models. Updates and further insights will be provided as the project progresses.
+| Model          | Precision | Recall | F1-score | Accuracy | Time     | Memory   |
+| -------------- | --------- | ------ | -------- | -------- | -------- | -------- |
+| Logistic Regression | 0.84      | 0.75   | 0.76     | 0.75     | 0.089 sec | 317.29 MiB |
+| SVM            | 0.84      | 0.73   | 0.75     | 0.73     | 41.4 sec  | 453.25 MiB |
+| Decision Tree  | 0.83      | 0.74   | 0.76     | 0.74     | 0.111 sec | 269.71 MiB |
+| Naive Bayes    | 0.83      | 0.70   | 0.73     | 0.70     | 0.422 sec | 851 MiB    |
+| KNN            | 0.87      | 0.68   | 0.73     | 0.68     | 14.88 sec | 851 MiB    |
 
-Feel free to contribute and provide feedback to enhance the effectiveness of the hate speech identification model. Together, we can strive towards a safer and more inclusive online environment.
+As we can see that considering both scores and performance there's a tie between Logistic Regression and Decision Tree. While Decision Tree utilizes less memory but takes a tad bit longer and the scores are also similar.
+Therefore we have also proved the no free lunch theorem which basically states there is no correct answer...
+
+
+
