@@ -1,4 +1,4 @@
-# Hate Speech Identification Model
+# Offensive Speech Identification Model
 
 This project aims to develop a classifier using the NLTK and scikit-learn libraries to categorize given text into offensive, hate speech, or neither. It leverages machine learning techniques to contribute to addressing the issue of hate speech online.
 
